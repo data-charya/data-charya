@@ -1,2 +1,2 @@
-# Hey, I'm Shanwill Pinto <img src="profile.svg" width="200">
+# Hey, I'm Shanwill Pinto <img src="profile.svg" width="400">
 
