@@ -1,5 +1,5 @@
 # __Hey, I'm Shanwill Pinto__
-<img src="pro.png" width="400" align="right">
+<!--<img src="pro.png" width="400" align="right"> -->
 <h4>I do machine learning and Ai :octocat:</h4>
 I've got experience on,
 
