@@ -1,1 +1,2 @@
-# Hey, I'm Shanwill Pinto ![](profile.svg =400x400)
+# Hey, I'm Shanwill Pinto <img src="profile.svg" width="200">
+
