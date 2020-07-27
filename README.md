@@ -1,3 +1,3 @@
 # __Hey, I'm Shanwill Pinto__
 <img src="profile.svg" width="400" align="right">
-I do machine learning and Ai 
+<span style="font-family:Papyrus; font-size:4em;">I do machine learning and Ai </span>
