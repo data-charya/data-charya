@@ -4,6 +4,9 @@
 I've got experience on,
 
 >Adobe creative cloud
+
 >Machine learning
+
 >Programming
+
 >Deep learning
