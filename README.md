@@ -1,6 +1,6 @@
 # __Hey, I'm Shanwill Pinto__
 <!--<img src="pro.png" width="400" align="right"> -->
-<h4>I do machine learning and Ai :octocat:</h4>
+<h3>I do Machine learning and Ai :octocat:</h3>
 
 ### Connect with me:
 
