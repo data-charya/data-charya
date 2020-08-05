@@ -26,6 +26,7 @@
 
 ---
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=data-charya&theme=tokyonight&repo=Covid-19-Mask-Detection)](https://github.com/data-charya/Covid-19-Mask-Detection)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=data-charya&theme=tokyonight&repo=Breast-Cancer-Prediction)](https://github.com/data-charya/Breast-Cancer-Prediction)
 
 ---
 ### 📺 Latest YouTube Videos
@@ -35,7 +36,7 @@
 - [Is the Google assistant racist????](https://www.youtube.com/watch?v=QhOrBO_Dl08&t=274s)
 - [Should you become a "Data Scientist" ??](https://www.youtube.com/watch?v=jOBMidPpHxw&t=29s)
 <!-- YOUTUBE:END -->
-
+---
 ![data-charya's github stats](https://github-readme-stats.vercel.app/api?username=data-charya&theme=tokyonight&show_icons=true)
 
 [twitter]: https://twitter.com/Pintoshanwill
