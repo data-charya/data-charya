@@ -34,7 +34,7 @@
 - [Should you become a "Data Scientist" ??](https://www.youtube.com/watch?v=jOBMidPpHxw&t=29s)
 <!-- YOUTUBE:END -->
 
-<img align="left" alt="data-charya's Github Stats" src="https://github-readme-stats.vercel.app/api?username=data-charya&show_icons=true&hide_border=true" />
+![data-charya's github stats](https://github-readme-stats.vercel.app/api?username=data-charya&theme=tokyonight &show_icons=true)
 
 [twitter]: https://twitter.com/Pintoshanwill
 [youtube]: https://www.youtube.com/channel/UCkvwlQH9BzkX0zAGAB18NxA
