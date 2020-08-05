@@ -4,10 +4,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Shanwill Pinto | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="Shanwill Pinto | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Shanwill Pinto | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Shanwill Pinto | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -21,12 +21,12 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
 
-<br />
-<br />
 
 ---
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=data-charya&theme=tokyonight&repo=Covid-19-Mask-Detection)](https://github.com/data-charya/Covid-19-Mask-Detection)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=data-charya&theme=tokyonight&repo=Breast-Cancer-Prediction)](https://github.com/data-charya/Breast-Cancer-Prediction)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=data-charya&theme=dracula&repo=Covid-19-Mask-Detection)](https://github.com/data-charya/Covid-19-Mask-Detection)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=data-charya&theme=dracula&repo=Breast-Cancer-Prediction)](https://github.com/data-charya/Breast-Cancer-Prediction)
+---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=data-charya&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 ### 📺 Latest YouTube Videos
