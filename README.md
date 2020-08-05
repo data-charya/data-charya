@@ -25,7 +25,7 @@
 <br />
 
 ---
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=data-charya&repo=Covid-19-Mask-Detection)](https://github.com/data-charya/Covid-19-Mask-Detection)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=data-charya&theme=tokyonight&repo=Covid-19-Mask-Detection)](https://github.com/data-charya/Covid-19-Mask-Detection)
 
 ---
 ### 📺 Latest YouTube Videos
