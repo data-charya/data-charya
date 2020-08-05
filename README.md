@@ -25,7 +25,9 @@
 <br />
 
 ---
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=data-charya&repo=Covid-19-Mask-Detection)](https://github.com/data-charya/Covid-19-Mask-Detection)
 
+---
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
 - [Ai and Ml hype ???](https://www.youtube.com/watch?v=PjsSS-Qc4tc)
