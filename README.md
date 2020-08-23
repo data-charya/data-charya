@@ -23,6 +23,7 @@
 <br />
 
 ---
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=data-charya&theme=dracula&repo=Scene-Detection)](https://github.com/data-charya/Scene-Detection)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=data-charya&theme=dracula&repo=Covid-19-Mask-Detection)](https://github.com/data-charya/Covid-19-Mask-Detection)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=data-charya&theme=dracula&repo=Breast-Cancer-Prediction)](https://github.com/data-charya/Breast-Cancer-Prediction)
 ---
