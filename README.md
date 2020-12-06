@@ -1,7 +1,7 @@
 # __Hey, I'm Shanwill Pinto__
 <!--<img src="pro.png" width="400" align="right"> -->
 <h3>I do Machine learning and Ai :octocat:</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/244516/screenshots/4830370/mouse_3.gif">
 
 ### Connect with me:
 
@@ -23,7 +23,6 @@
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <br />
 
----
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=data-charya&theme=dracula&repo=Scene-Detection)](https://github.com/data-charya/Scene-Detection)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=data-charya&theme=dracula&repo=Covid-19-Mask-Detection)](https://github.com/data-charya/Covid-19-Mask-Detection)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=data-charya&theme=dracula&repo=Breast-Cancer-Prediction)](https://github.com/data-charya/Breast-Cancer-Prediction)
