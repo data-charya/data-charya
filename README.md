@@ -1,7 +1,7 @@
 # Hey, I'm Shanwill Pinto
 <!--<img src="pro.png" width="400" align="right"> -->
 <h3>I do Machine learning and Ai :octocat:</h3>
-<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/2428268/screenshots/14157596/media/8915b8e967eb6c43b9695f3b03803430.gif">
+
 
 ### Connect with me:
 
@@ -9,7 +9,7 @@
 [<img align="left" alt="Shanwill Pinto | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Shanwill Pinto | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Shanwill Pinto | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
+<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/2428268/screenshots/14157596/media/8915b8e967eb6c43b9695f3b03803430.gif">
 <br />
 
 ### Languages and Tools:
