@@ -1,7 +1,7 @@
-# __Hey, I'm Shanwill Pinto__
+# Hey, I'm Shanwill Pinto
 <!--<img src="pro.png" width="400" align="right"> -->
 <h3>I do Machine learning and Ai :octocat:</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/244516/screenshots/4830370/mouse_3.gif">
+<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/2428268/screenshots/14157596/media/8915b8e967eb6c43b9695f3b03803430.gif">
 
 ### Connect with me:
 
