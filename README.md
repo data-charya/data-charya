@@ -1,6 +1,5 @@
 # Hey, I'm Shanwill Pinto
 <!--<img src="pro.png" width="400" align="right"> -->
-<img align="right" alt="Coding" width="500" src="https://cdn.dribbble.com/users/2428268/screenshots/14157596/media/8915b8e967eb6c43b9695f3b03803430.gif">
 <h3>I do Machine learning and Ai :octocat:</h3>
 
 
