@@ -7,7 +7,7 @@
 
 [<img align="left" alt="Shanwill Pinto | YouTube" width="22px" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" />][youtube]
 [<img align="left" alt="Shanwill Pinto | Twitter" width="22px" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" />][twitter]
-[<img align="left" alt="Shanwill Pinto | LinkedIn" width="22px" src="vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />][linkedin]
+<!--[<img align="left" alt="Shanwill Pinto | LinkedIn" width="22px" src="vhttps://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />][linkedin]-->
 [<img align="left" alt="Shanwill Pinto | Instagram" width="22px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />][instagram]
 
 <br />
