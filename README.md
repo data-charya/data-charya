@@ -1,8 +1,6 @@
 # Hey, I'm Shanwill Pinto
 <!--<img src="pro.png" width="400" align="right"> -->
 <h3>I do Machine learning and Ai :octocat:</h3>
-
-
 ### Connect with me:
 
 [<img align="left" alt="Shanwill Pinto | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
