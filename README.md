@@ -22,20 +22,6 @@
 <img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/ca0eb3d131d4586e62eb5ed31a2cde56035adc8d/icons/bootstrap/bootstrap-plain.svg" />
 <br />
 
-
-<img align="left" alt="HTML5" width="40px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
-<img align="left" alt="HTML5" width="40px" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" />
-<img align="left" alt="HTML5" width="40px" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" />
-<img align="left" alt="HTML5" width="40px" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" />
-<img align="left" alt="HTML5" width="40px" src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" />
-<br />
-
-
-<img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/ca0eb3d131d4586e62eb5ed31a2cde56035adc8d/icons/photoshop/photoshop-line.svg" />
-<img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/ca0eb3d131d4586e62eb5ed31a2cde56035adc8d/icons/aftereffects/aftereffects-original.svg" />
-
-<br />
-
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=data-charya&theme=dracula&repo=Scene-Detection)](https://github.com/data-charya/Scene-Detection)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=data-charya&theme=dracula&repo=Covid-19-Mask-Detection)](https://github.com/data-charya/Covid-19-Mask-Detection)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=data-charya&theme=dracula&repo=Breast-Cancer-Prediction)](https://github.com/data-charya/Breast-Cancer-Prediction)
