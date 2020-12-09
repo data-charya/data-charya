@@ -5,10 +5,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Shanwill Pinto | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Shanwill Pinto | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Shanwill Pinto | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Shanwill Pinto | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Shanwill Pinto | YouTube" width="22px" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" />][youtube]
+[<img align="left" alt="Shanwill Pinto | Twitter" width="22px" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" />][twitter]
+[<img align="left" alt="Shanwill Pinto | LinkedIn" width="22px" src="vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />][linkedin]
+[<img align="left" alt="Shanwill Pinto | Instagram" width="22px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />][instagram]
 
 <br />
 
