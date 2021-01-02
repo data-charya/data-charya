@@ -17,6 +17,7 @@
 <img align="left" alt="HTML5" width="40px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />
 <img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/ca0eb3d131d4586e62eb5ed31a2cde56035adc8d/icons/bootstrap/bootstrap-plain.svg" /> </p>
 <br />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jsuryakt" alt="jsuryakt" /> </p>
 
 
 
