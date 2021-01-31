@@ -11,8 +11,6 @@
 [<img align="left" alt="Shanwill Pinto | Instagram" width="22px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />][instagram]
 
 <br />
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=data-charya" alt="data-charya" /> </p>
-
 
 
 <br />
