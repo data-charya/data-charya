@@ -10,14 +10,6 @@
 <!--[<img align="left" alt="Shanwill Pinto | LinkedIn" width="22px" src="vhttps://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />][linkedin]-->
 [<img align="left" alt="Shanwill Pinto | Instagram" width="22px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />][instagram]
 
-<br />
-
-
-<br />
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=data-charya&theme=dracula&repo=Scene-Detection)](https://github.com/data-charya/Scene-Detection)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=data-charya&theme=dracula&repo=Covid-19-Mask-Detection)](https://github.com/data-charya/Covid-19-Mask-Detection)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=data-charya&theme=dracula&repo=Breast-Cancer-Prediction)](https://github.com/data-charya/Breast-Cancer-Prediction)
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=data-charya&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
