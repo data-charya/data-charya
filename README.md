@@ -11,7 +11,7 @@
 [<img align="left" alt="Shanwill Pinto | Instagram" width="22px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />][instagram]
 
 ![data-charya's github stats](https://github-readme-stats.vercel.app/api?username=data-charya&theme=tokyonight&show_icons=true)
-
+<br>
 [twitter]: https://twitter.com/Pintoshanwill
 [youtube]: https://www.youtube.com/channel/UCkvwlQH9BzkX0zAGAB18NxA
 [instagram]: https://instagram.com/swo._.osh
