@@ -11,9 +11,6 @@
 [<img align="left" alt="Shanwill Pinto | Instagram" width="22px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />][instagram]
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=data-charya&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
----
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
 - [Ai and Ml hype ???](https://www.youtube.com/watch?v=PjsSS-Qc4tc)
